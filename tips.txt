@@ -1,0 +1,2 @@
+- Nov 20
+    - You can use  `counter = num ? counter + 1 : 0;` followed by `result = max(result, counter)` for repeating pattern increment
