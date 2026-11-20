@@ -21,3 +21,7 @@ Solutions are organized by topic folder, then problem ID. Each submission is sto
 Data Structures & Algorithms/two-integer-sum/submission-0.cpp
 Data Structures & Algorithms/binary-search/submission-0.cpp
 ```
+
+---
+
+**tips.txt** is a compilation of tips that have been recorded while practicing. 
